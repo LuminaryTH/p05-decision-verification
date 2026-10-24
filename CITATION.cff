@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this software and record the version and commit used."
+type: software
+title: "P05 decision verification reproducibility materials"
+version: "v24"
+date-released: "2026-10-24"
+url: "https://github.com/LuminaryTH/p05-decision-verification"
+license: MIT
+authors:
+  - family-names: Yang
+    given-names: Tianhao
+    orcid: "https://orcid.org/0009-0000-0003-2748"
+  - family-names: Cui
+    given-names: Jianxun
+    orcid: "https://orcid.org/0000-0001-6902-7111"
+  - family-names: Zhang
+    given-names: Jiabao
+    orcid: "https://orcid.org/0009-0007-6358-7821"
+  - family-names: Fang
+    given-names: Xinhao
+    orcid: "https://orcid.org/0009-0006-9902-7896"
+  - family-names: Milojkovic
+    given-names: Marko
+    orcid: "https://orcid.org/0000-0001-7623-1495"
+  - family-names: Peric
+    given-names: Stanisa
+    orcid: "https://orcid.org/0000-0003-4766-195X"
+  - family-names: Devedzic
+    given-names: Vladan
+    orcid: "https://orcid.org/0000-0002-5790-0240"
